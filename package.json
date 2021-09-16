@@ -1,0 +1,27 @@
+{
+  "name": "writing-your-first-babel-plugin",
+  "version": "1.0.0",
+  "description": "https://github.com/jamiebuilds/babel-handbook/blob/master/translations/ja/plugin-handbook.md#writing-your-first-babel-plugin",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyakt/writing-your-first-babel-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyakt/writing-your-first-babel-plugin/issues"
+  },
+  "homepage": "https://github.com/hyakt/writing-your-first-babel-plugin#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.15.4",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "@babel/core": "^7.15.5"
+  }
+}
