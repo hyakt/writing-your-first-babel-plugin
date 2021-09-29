@@ -19,6 +19,10 @@
   "homepage": "https://github.com/hyakt/writing-your-first-babel-plugin#readme",
   "devDependencies": {
     "@babel/cli": "^7.15.4",
+    "@babel/types": "^7.15.6",
+    "@tsconfig/node14": "^1.0.1",
+    "@types/babel__core": "^7.1.16",
+    "prettier": "^2.4.1",
     "typescript": "^4.4.3"
   },
   "dependencies": {
