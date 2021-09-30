@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`works 1`] = `
+"var foo = 1;
+if (foo) console.log(foo);"
+`;
+
+exports[`works2 1`] = `"human === dork;"`;
