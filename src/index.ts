@@ -13,7 +13,7 @@ export default function (babel: Babel): PluginObj {
         if (path.node.operator !== '===') {
           return
         }
-        path.node.left = t.identifier('hyakt')
+        path.node.left = t.identifier('human')
         path.node.right = t.identifier('dork')
       }
     }
