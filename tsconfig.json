@@ -1,6 +1,7 @@
 {
   "extends": "@tsconfig/node14/tsconfig.json",
   "include": ["src/**/*"],
+  "exclude": ["src/**/*.test.ts"],
   "compilerOptions": {
     "rootDir": "./src",
     "outDir": "dist"
